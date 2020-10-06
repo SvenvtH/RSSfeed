@@ -7,6 +7,7 @@
 </description>
 <language>en</language>
 <itunes:author>Juicer</itunes:author>
+<itunes:email>zwen883@gmail.com</itunes:email>
 <itunes:category text="Juice Wrld" />
 <itunes:type>episodic</itunes:type>
 <itunes:image
@@ -17,7 +18,7 @@ href="https://svenvth.github.io/RSSfeed/juicewrld.jpg" />
 <guid>0001</guid>
 <title>Purple Substance</title>
 <description>Purple Substance</description>
-<itunes:duration>2700</itunes:duration>
+<itunes:duration>200</itunes:duration>
 <enclosure
 url="https://svenvth.github.io/RSSfeed/mp3/PurpleSubstance.mp3" type="audio/mpeg" />
 </item>
