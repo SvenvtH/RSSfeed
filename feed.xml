@@ -7,8 +7,10 @@
 </description>
 <language>en</language>
 <itunes:author>Juicer</itunes:author>
+<itunes:owner>
+<itunes:name>Juicer</itunes:name>
 <itunes:email>zwen883@gmail.com</itunes:email>
-<email>zwen883@gmail.com</email>
+ </itunes:owner>
 <itunes:category text="Juice Wrld" />
 <itunes:type>episodic</itunes:type>
 <itunes:image
