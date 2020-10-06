@@ -19,8 +19,7 @@ href="https://serialpodcast.org/sites/all/modules/custom/serial/img/serial-itune
 <description>Purple Substance</description>
 <itunes:duration>2700</itunes:duration>
 <enclosure
-url="https://dts.podtrac.com/redirect.mp3/files.serialpodcast.org/sites/default/files/podcast/14224
-81890/serial-s01-e09.mp3" type="audio/mpeg" />
+url="https://svenvth.github.io/RSSfeed/mp3/PurpleSubstance.mp3" type="audio/mpeg" />
 </item>
 </channel>
 </rss>
