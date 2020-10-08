@@ -1,29 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
-<title>Nexus.Leaks</title>
+<title>Armoury Podcast</title>
 <link>https://nexus-trigger.netlify.app/</link>
-<description>Nexus.Leaks is a podcast with music
+<description>Armoury Podcast is a podcast where we listen to beats made by Juicer (Me) and discuss them
 </description>
 <language>en</language>
 <itunes:author>Juicer</itunes:author>
 <itunes:owner>
 <itunes:name>Juicer</itunes:name>
 <itunes:email>zwen883@gmail.com</itunes:email>
- </itunes:owner>
-<itunes:category text="Juice Wrld" />
+</itunes:owner>
 <itunes:type>episodic</itunes:type>
-<itunes:image
-href="https://svenvth.github.io/RSSfeed/juicewrld.jpg" />
+<itunes:image href="https://svenvth.github.io/RSSfeed/podimg.jpg" />
 
 <!-- ITEM1 -->
 <item>
 <guid>0001</guid>
-<title>Purple Substance</title>
-<description>Purple Substance</description>
-<itunes:duration>200</itunes:duration>
-<enclosure
-url="https://svenvth.github.io/RSSfeed/mp3/PurpleSubstance.mp3" type="audio/mpeg" />
+<title>Barak Podcast Intro</title>
+<description>This is the podcast intro</description>
+<itunes:duration>117</itunes:duration>
+<enclosure url="https://svenvth.github.io/RSSfeed/mp3/barakObamaIntro.mp3" type="audio/mpeg" />
 </item>
 </channel>
 </rss>
