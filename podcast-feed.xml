@@ -2,14 +2,14 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
 <title>Armoury Podcast</title>
-<link>https://nexus-trigger.netlify.app/</link>
+<link>https://soundcloud.com/juic3r</link>
 <description>Armoury Podcast is een podcast voor armoury (Vrienden groep) die houd van freestylen op de beats van Juicer (ik)
 </description>
 <language>en</language>
-<itunes:author>Juicer</itunes:author>
+<itunes:author>JuicerTheProducer</itunes:author>
 <itunes:owner>
-<itunes:name>Juicer</itunes:name>
-<itunes:email>zwen883@gmail.com</itunes:email>
+<itunes:name>Sven</itunes:name>
+<itunes:email>sven@hoenderdaal.net</itunes:email>
 </itunes:owner>
 <itunes:type>episodic</itunes:type>
 <itunes:image href="https://svenvth.github.io/RSSfeed/podimg.jpg" />
