@@ -3,7 +3,7 @@
 <channel>
 <title>Armoury Podcast</title>
 <link>https://nexus-trigger.netlify.app/</link>
-<description>Armoury Podcast is a podcast where we listen to beats made by Juicer (Me) and discuss them
+<description>Armoury Podcast is een podcast voor armoury (Vrienden groep) die houd van freestylen op de beats van Juicer (ik)
 </description>
 <language>en</language>
 <itunes:author>Juicer</itunes:author>
@@ -18,7 +18,7 @@
 <item>
 <guid>0001</guid>
 <title>Barak Podcast Intro</title>
-<description>This is the podcast intro</description>
+<description>Dit is de podcast intro</description>
 <itunes:duration>117</itunes:duration>
 <enclosure url="https://svenvth.github.io/RSSfeed/mp3/barakObamaIntro.mp3" type="audio/mpeg" />
 </item>
